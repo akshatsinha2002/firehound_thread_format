@@ -49,6 +49,7 @@ Volume Button Customizations
 Keyboard Cursor Control
 Playback Control
 
+
 #Display
 Live Display
 Double tap to wake/sleep
@@ -58,9 +59,11 @@ Daydream
 Font Size Control
 Search Bar in Recents Menu
 
+
 #Lights
 Battery Lights Customizations
 Notification Lights Customizations
+
 
 #Sounds
 Sim 1/2 Ringtones
@@ -71,6 +74,7 @@ Other Sounds Customizations
 Charging Sounds
 Camera Shutter Sound Enable/Disable
 
+
 #Recents
 Show search bar in Recents
 Memory Bar
@@ -78,18 +82,22 @@ Clear All Recents Button Enable/Disable
 Clear All tasks / Foreground Tasks
 Clear All Recents Location
 
+
 #Gestures
 Gesture Anywhere
 Trigger Region
 Three Finger Swipe Screenshot
+
 
 #App Circle Side Bar
 Trigger Width
 Trigger Position
 Trigger Height
 
+
 #CM Theme Engine
 Custom CM Theme Engine Customizations
+
 
 #Lock Screen
 Keyguard and all types of Keyguards
@@ -101,8 +109,10 @@ Music Visualizer
 Show Weather
 Custom Lockscreen Wallpaper
 
+
 #CM Privacy Guard
 Better Privacy Management
+
 
 #Camera
 Denoise
@@ -115,6 +125,9 @@ ZSL
 Skin Tone Enhancement
 HDR+
 Video Stabilization
+
+
+
 We Thank:
 Cyanogenmod
 crDroid
