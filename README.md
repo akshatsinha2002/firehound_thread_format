@@ -115,7 +115,9 @@ ZSL
 Skin Tone Enhancement
 HDR+
 Video Stabilization
-We Thank:
+
+
+#We Thank:
 Cyanogenmod
 crDroid
 Chainfire
