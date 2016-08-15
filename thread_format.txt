@@ -26,8 +26,10 @@ Battery Bar Style
 Charging Animation
 Battery Bar Color
 Battery Bar Thickness
+Date Customizations
 Status Bar Slide Brightness Control
 Quick Pulldown
+Headset Icon Toggle
 
 
 #Notifications
@@ -35,6 +37,11 @@ Heads UP Enable/Disable
 DND
 Notification Access
 Notifications Filter
+Disable FC Notifications
+Immersive mode notifications
+Force Expanded Notifications
+
+
 #Buttons
 Navigation Bar Enable/Disable
 Backlight Control
