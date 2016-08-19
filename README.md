@@ -1,4 +1,4 @@
-                                        _____ _          _   _                       _
+                                       _____ _          _   _                       _
                                       |  ___(_)_ __ ___| | | | ___  _   _ _ __   __| |
                                       | |_  | | '__/ _ \ |_| |/ _ \| | | | '_ \ / _` |
                                       |  _| | | | |  __/  _  | (_) | |_| | | | | (_| |
@@ -7,4 +7,4 @@
 
                                               # FIRE BURNS AND PHOENIX HOUNDS
 
-Use this thread.txt and fh_banner.png for posting your thread. :)
+Use this thread_format.txt and fh_banner.png for posting your thread. :)
