@@ -1,0 +1,142 @@
+[IMG]https://github.com/FireHound/firehound_thread_format/blob/master/fh_banner.png[/IMG]
+[CENTER][B][SIZE=3]FIRE BURNS AND PHOENIX HOUNDS
+[/SIZE][/B]
+FireHound is a Custom ROM developed focusing on Stability + Features. FireHound is made from cherry-picking commits from many great ROMs. Our main goal is to satisfy users as best as possible and to rise a community. So without being much senti, we will head towards main part now…[/CENTER]
+
+[COLOR=red][B][SIZE=6]FireHound Features:[/SIZE][/B][/COLOR]
+[B][COLOR=DarkOrchid]FireHound Ashes[/COLOR]
+Status Bar[/B]
+[SPOILER]Status Bar Icons
+SuperUser Indicator (Hide or Unhide Status Bar SU)
+Clock Style
+AM/PM Style
+Battery Style
+Battery Percentage
+Battery Bar
+Battery Bar Location
+Battery Bar Style
+Charging Animation
+Battery Bar Color
+Battery Bar Thickness
+Status Bar Slide Brightness Control
+Quick Pulldown
+[/SPOILER]
+[B]Notifications[/B]
+[SPOILER]Heads UP Enable/Disable
+DND
+Notification Access
+Notifications Filter[/SPOILER]
+[B]Buttons[/B]
+[SPOILER]Navigation Bar Enable/Disable
+Backlight Control
+Navigation Bar Layout Control
+Left Handed Mode
+Power button press twice for Camera
+Power Button End Call
+Home Button Customizations
+Menu Button Customizations
+Back Button Customizations
+Volume Button Customizations
+Keyboard Cursor Control
+Playback Control[/SPOILER]
+[B]Display[/B]
+[SPOILER]Live Display
+Double tap to wake/sleep
+Wake on Plug
+LCD Custom Density
+Daydream
+Font Size Control
+Search Bar in Recents Menu[/SPOILER]
+[B]Lights[/B]
+[SPOILER]Battery Lights Customizations
+Notification Lights Customizations[/SPOILER]
+[B]Sounds[/B]
+[SPOILER]Sim 1/2 Ringtones
+Notification Tones
+Increasing Ring Volume
+Launch Music App on Headset connected
+Other Sounds Customizations
+Charging Sounds
+Camera Shutter Sound Enable/Disable[/SPOILER]
+[B]Recents[/B]
+[SPOILER]Show search bar in Recents
+Memory Bar
+Clear All Recents Button Enable/Disable
+Clear All tasks / Foreground Tasks
+Clear All Recents Location[/SPOILER]
+[B]Gestures[/B]
+[SPOILER]Gesture Anywhere
+Trigger Region
+Three Finger Swipe Screenshot[/SPOILER]
+[B]App Circle Side Bar[/B]
+[SPOILER]Trigger Width
+Trigger Position
+Trigger Height[/SPOILER]
+[B]CM Theme Engine[/B]
+[SPOILER]Custom CM Theme Engine Customizations[/SPOILER]
+[B]Lock Screen[/B]
+[SPOILER]Keyguard and all types of Keyguards
+Quick Unlock
+Smart Lock
+Live Lock Screen
+Lock Screen Shortcuts
+Music Visualizer
+Show Weather
+Custom Lockscreen Wallpaper[/SPOILER]
+[B]CM Privacy Guard
+Camera[/B]
+[SPOILER]Denoise
+Saturation Adjustment
+Contrast Adjustment
+Sharpness Adjustments
+Beautify
+ISO
+ZSL
+Skin Tone Enhancement
+HDR+
+Video Stabilization[/SPOILER]
+
+[CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
+[SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
+[CENTER]
+[B][SIZE=3][COLOR=Red]How to flash[/COLOR][/SIZE][/B]
+Download the ROM and [URL='http://opengapps.org/'][B]gapps[/B][/URL]
+Boot into recovery mode [TWRP]
+Wipe System/Data/Dalvik Cache/Cache
+Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
+Flash it!!! Reboot it!!!
+You know right? :D[/CENTER]
+
+[B]FireHound G+ Community:[/B]
+Join for latest updates, bug reporting, support and updates..
+[B][URL]https://plus.google.com/communities/114615598909452601377[/URL]
+FireHound Donations:
+Donate us for keeping our build servers and Jenkins alive.
+[URL]https://www.paypal.me/AdamLapinski[/URL][/B]
+
+
+We also encourage users to report bugs and issues at our G+ Community.
+We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
+Tell us whatever, whichever feature you want and we will try our best to integrate it.
+
+[B]We Thank:
+[SIZE=3]Cyanogenmod
+crDroid
+Chainfire
+Slim ROMs
+Ressurection Remix
+OwnROM
+Abhishek Karmakar
+PrathameshMS
+Hriday Sharma
+And all who have contributed to this ROM[/SIZE].[/B]
+
+[B][SIZE=5]Sources: [/SIZE]
+[SIZE=4][URL='https://github.com/CyanogenMod/android_kernel_cyanogen_msm8916']Kernel[/URL][/SIZE][/B]
+[URL='http://github.com/FireHound'][B][SIZE=4]ROM[/SIZE][/B][/URL]
+
+[B]Official Maintainers for Devices.
+[URL]https://github.com/FireHound/android_vendor_fh/blob/mm/Maintainers[/URL]
+FireHound Developer:
+[URL]https://github.com/PMS22[/URL]
+[/B]
