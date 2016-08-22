@@ -1,4 +1,4 @@
-[IMG]https://github.com/FireHound/firehound_thread_format/blob/master/fh_banner.png[/IMG]
+[IMG]https://raw.githubusercontent.com/FireHound/firehound_thread_format/master/fh_banner.png[/IMG]
 [CENTER][B][SIZE=3]FIRE BURNS AND PHOENIX HOUNDS
 [/SIZE][/B]
 FireHound is a Custom ROM developed focusing on Stability + Features. FireHound is made from cherry-picking commits from many great ROMs. Our main goal is to satisfy users as best as possible and to rise a community. So without being much senti, we will head towards main part now…[/CENTER]
