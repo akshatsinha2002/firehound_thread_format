@@ -28,8 +28,8 @@ QS Shader Transparency
 [HIDE]Heads UP Enable/Disable
 DND
 Disable FC Notifications
-Disable Immersive ,essages
-Force Expanded notifications
+Disable Immersive Messages
+Force Expanded Notifications
 Notification Access
 Notifications Filter[/HIDE]
 [B]Buttons[/B]
