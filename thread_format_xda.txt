@@ -12,6 +12,7 @@ Clock Style
 AM/PM Style
 Battery Style
 Battery Percentage
+Network Traffic Indicator
 Battery Bar
 Battery Bar Location
 Battery Bar Style
@@ -20,10 +21,15 @@ Battery Bar Color
 Battery Bar Thickness
 Status Bar Slide Brightness Control
 Quick Pulldown
+QS Header Transparency
+QS Shader Transparency
 [/HIDE]
 [B]Notifications[/B]
 [HIDE]Heads UP Enable/Disable
 DND
+Disable FC Notifications
+Disable Immersive ,essages
+Force Expanded notifications
 Notification Access
 Notifications Filter[/HIDE]
 [B]Buttons[/B]
@@ -63,7 +69,8 @@ Camera Shutter Sound Enable/Disable[/HIDE]
 Memory Bar
 Clear All Recents Button Enable/Disable
 Clear All tasks / Foreground Tasks
-Clear All Recents Location[/HIDE]
+Clear All Recents Location
+Omni Switch[/HIDE]
 [B]Gestures[/B]
 [HIDE]Gesture Anywhere
 Trigger Region
@@ -77,6 +84,7 @@ Trigger Height[/HIDE]
 [B]Lock Screen[/B]
 [HIDE]Keyguard and all types of Keyguards
 Quick Unlock
+Double tap to sleep on lockscreen
 Smart Lock
 Live Lock Screen
 Lock Screen Shortcuts
@@ -107,6 +115,9 @@ Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
 Flash it!!! Reboot it!!!
 You know right? :D[/CENTER]
 
+Note:
+Cyanogenmod Root is purposely broken. You need to flash latest Super SU to root your device properly.
+
 [B]FireHound G+ Community:[/B]
 Join for latest updates, bug reporting, support and updates..
 [B][URL]https://plus.google.com/communities/114615598909452601377[/URL]
@@ -126,6 +137,8 @@ Chainfire
 Slim ROMs
 Ressurection Remix
 OwnROM
+AICP
+Dirty Unicorns
 Abhishek Karmakar
 PrathameshMS
 Hriday Sharma
