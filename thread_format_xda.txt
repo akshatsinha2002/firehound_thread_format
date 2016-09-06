@@ -106,32 +106,34 @@ Video Stabilization[/HIDE]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
+
 [CENTER]
 [B][SIZE=3][COLOR=Red]How to flash[/COLOR][/SIZE][/B]
-Download the ROM and [URL='http://opengapps.org/'][B]gapps[/B][/URL]
+Download the ROM and [URL='http://opengapps.org/'][B]Gapps[/B][/URL]
 Boot into recovery mode [TWRP]
 Wipe System/Data/Dalvik Cache/Cache
 Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
 Flash it!!! Reboot it!!!
 You know right? :D[/CENTER]
 
-Note:
-Cyanogenmod Root is purposely broken. You need to flash latest Super SU to root your device properly.
+[B]Note:
+Cyanogenmod Root is purposely broken. You need to flash latest Super SU to root your device properly.[/B]
 
 [B]FireHound G+ Community:[/B]
 Join for latest updates, bug reporting, support and updates..
-[B][URL]https://plus.google.com/communities/114615598909452601377[/URL]
-FireHound Donations:
+[URL]https://plus.google.com/communities/114615598909452601377[/URL]
+
+[B]FireHound Donations:[/B]
 Donate us for keeping our build servers and Jenkins alive.
-[URL]https://www.paypal.me/AdamLapinski[/URL][/B]
+[URL=https://www.paypal.me/AdamLapinski]Donate FireHound[/URL]
 
 
-We also encourage users to report bugs and issues at our G+ Community.
+[B]We also encourage users to report bugs and issues at our G+ Community.
 We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
-Tell us whatever, whichever feature you want and we will try our best to integrate it.
+Tell us whatever, whichever feature you want and we will try our best to integrate it.[/B]
 
-[B]We Thank:
-[SIZE=3]Cyanogenmod
+[B]We Thank:[/B]
+[SIZE=2]Cyanogenmod
 crDroid
 Chainfire
 Slim ROMs
@@ -142,14 +144,14 @@ Dirty Unicorns
 Abhishek Karmakar
 PrathameshMS
 Hriday Sharma
-And all who have contributed to this ROM[/SIZE].[/B]
+And all who have contributed to this ROM.[/SIZE]
 
 [B][SIZE=5]Sources: [/SIZE]
 [SIZE=4][URL='https://github.com/CyanogenMod/android_kernel_cyanogen_msm8916']Kernel[/URL][/SIZE][/B]
 [URL='http://github.com/FireHound'][B][SIZE=4]ROM[/SIZE][/B][/URL]
 
-[B]Official Maintainers for Devices.
+[B]Official Maintainers for Devices.[/B]
 [URL]https://github.com/FireHound/android_vendor_fh/blob/mm/Maintainers[/URL]
-FireHound Developer:
+
+[B]FireHound Developer:[/B]
 [URL]https://github.com/PMS22[/URL]
-[/B]
