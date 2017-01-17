@@ -11,6 +11,9 @@ SuperUser Indicator (Hide or Unhide Status Bar SU)
 Clock Style
 AM/PM Style
 Battery Style
+Enable/disable date
+Date format
+Date positions
 Battery Percentage
 Network Traffic Indicator
 Battery Bar
@@ -21,12 +24,14 @@ Battery Bar Color
 Battery Bar Thickness
 Status Bar Slide Brightness Control
 Quick Pulldown
-QS Header Transparency
-QS Shader Transparency
+Show seconds
 [/HIDE]
 [B]Notifications[/B]
 [HIDE]Heads UP Enable/Disable
 DND
+Quick WiFi Toggle
+Quick BT toggle
+Quick Battery toggle
 Disable FC Notifications
 Disable Immersive Messages
 Force Expanded Notifications
@@ -47,6 +52,7 @@ Keyboard Cursor Control
 Playback Control[/HIDE]
 [B]Display[/B]
 [HIDE]Live Display
+Toast Icon Switch
 Double tap to wake/sleep
 Wake on Plug
 LCD Custom Density
@@ -63,6 +69,7 @@ Increasing Ring Volume
 Launch Music App on Headset connected
 Other Sounds Customizations
 Charging Sounds
+Force Expanded Volume panel
 Camera Shutter Sound Enable/Disable[/HIDE]
 [B]Recents[/B]
 [HIDE]Show search bar in Recents
@@ -72,15 +79,8 @@ Clear All tasks / Foreground Tasks
 Clear All Recents Location
 Omni Switch[/HIDE]
 [B]Gestures[/B]
-[HIDE]Gesture Anywhere
-Trigger Region
+[HIDE]
 Three Finger Swipe Screenshot[/HIDE]
-[B]App Circle Side Bar[/B]
-[HIDE]Trigger Width
-Trigger Position
-Trigger Height[/HIDE]
-[B]CM Theme Engine[/B]
-[HIDE]Custom CM Theme Engine Customizations[/HIDE]
 [B]Lock Screen[/B]
 [HIDE]Keyguard and all types of Keyguards
 Quick Unlock
@@ -91,8 +91,10 @@ Lock Screen Shortcuts
 Music Visualizer
 Show Weather
 Custom Lockscreen Wallpaper[/HIDE]
-[B]CM Privacy Guard
-Camera[/B]
+[B]Animations[/B]
+[HIDE]Toast animations style[/HIDE]
+[B]CM Privacy Guard[/B]
+[B]Camera[/B]
 [HIDE]Denoise
 Saturation Adjustment
 Contrast Adjustment
@@ -103,6 +105,7 @@ ZSL
 Skin Tone Enhancement
 HDR+
 Video Stabilization[/HIDE]
+[B]System App Remover[/B]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
@@ -116,8 +119,8 @@ Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
 Flash it!!! Reboot it!!!
 You know right? :D[/CENTER]
 
-[B]Note:
-Cyanogenmod Root is purposely broken. You need to flash latest Super SU to root your device properly.[/B]
+[B]FireHound website[/B]
+[URL]firehound.github.io[/URL]
 
 [B]FireHound G+ Community:[/B]
 Join for latest updates, bug reporting, support and updates..
@@ -127,23 +130,13 @@ Join for latest updates, bug reporting, support and updates..
 Donate us for keeping our build servers and Jenkins alive.
 [URL=https://www.paypal.me/AdamLapinski]Donate FireHound[/URL]
 
-
 [B]We also encourage users to report bugs and issues at our G+ Community.
 We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
 Tell us whatever, whichever feature you want and we will try our best to integrate it.[/B]
 
 [B]We Thank:[/B]
 [SIZE=2]Cyanogenmod
-crDroid
-Chainfire
-Slim ROMs
-Ressurection Remix
-OwnROM
-AICP
-Dirty Unicorns
-Abhishek Karmakar
-PrathameshMS
-Hriday Sharma
+AOSPA
 And all who have contributed to this ROM.[/SIZE]
 
 [B][SIZE=5]Sources: [/SIZE]
