@@ -3,9 +3,9 @@
 [/SIZE][/B]
 FireHound is a Custom ROM developed focusing on Stability + Features. FireHound is made from cherry-picking commits from many great ROMs. Our main goal is to satisfy users as best as possible and to rise a community. So without being much senti, we will head towards main part now…[/CENTER]
 
-[COLOR=red][B][SIZE=6]FireHound Features:[/SIZE][/B][/COLOR]
-[B][COLOR=DarkOrchid]FireHound Ashes[/COLOR]
-Status Bar[/B]
+[COLOR=red][B][SIZE=6]FireHound Ashes:[/SIZE][/B][/COLOR]
+
+[B]Status Bar[/B]
 [HIDE]Status Bar Icons
 SuperUser Indicator (Hide or Unhide Status Bar SU)
 Clock Style
@@ -86,6 +86,7 @@ Three Finger Swipe Screenshot[/HIDE]
 Quick Unlock
 Double tap to sleep on lockscreen
 Smart Lock
+Hide power menu on lockscreen
 Live Lock Screen
 Lock Screen Shortcuts
 Music Visualizer
@@ -93,7 +94,6 @@ Show Weather
 Custom Lockscreen Wallpaper[/HIDE]
 [B]Animations[/B]
 [HIDE]Toast animations style[/HIDE]
-[B]CM Privacy Guard[/B]
 [B]Camera[/B]
 [HIDE]Denoise
 Saturation Adjustment
@@ -107,11 +107,13 @@ HDR+
 Video Stabilization[/HIDE]
 [B]System App Remover[/B]
 
+[B]CM Privacy Guard[/B]
+
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
 
 [CENTER]
-[B][SIZE=3][COLOR=Red]How to flash[/COLOR][/SIZE][/B]
+[B][SIZE=3][COLOR=Red]How to flash:[/COLOR][/SIZE][/B]
 Download the ROM and [URL='http://opengapps.org/'][B]Gapps[/B][/URL]
 Boot into recovery mode [TWRP]
 Wipe System/Data/Dalvik Cache/Cache
@@ -119,32 +121,26 @@ Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
 Flash it!!! Reboot it!!!
 You know right? :D[/CENTER]
 
-[B]FireHound website[/B]
-[URL]firehound.github.io[/URL]
+[B]FireHound website:[/B]
+[COLOR=red][URL]https://firehound.github.io/[/URL][/COLOR]
 
 [B]FireHound G+ Community:[/B]
 Join for latest updates, bug reporting, support and updates..
-[URL]https://plus.google.com/communities/114615598909452601377[/URL]
+[COLOR=red][URL]https://plus.google.com/communities/114615598909452601377[/URL][/COLOR]
 
 [B]FireHound Donations:[/B]
 Donate us for keeping our build servers and Jenkins alive.
-[URL=https://www.paypal.me/AdamLapinski]Donate FireHound[/URL]
+[COLOR=red][URL=https://www.paypal.me/AdamLapinski]Donate FireHound[/URL][/COLOR]
 
 [B]We also encourage users to report bugs and issues at our G+ Community.
 We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
 Tell us whatever, whichever feature you want and we will try our best to integrate it.[/B]
 
 [B]We Thank:[/B]
-[SIZE=2]Cyanogenmod
-AOSPA
+[SIZE=2]LineageOS
+Our designer team
 And all who have contributed to this ROM.[/SIZE]
 
-[B][SIZE=5]Sources: [/SIZE]
-[SIZE=4][URL='https://github.com/CyanogenMod/android_kernel_cyanogen_msm8916']Kernel[/URL][/SIZE][/B]
-[URL='http://github.com/FireHound'][B][SIZE=4]ROM[/SIZE][/B][/URL]
-
-[B]Official Maintainers for Devices.[/B]
-[URL]https://github.com/FireHound/android_vendor_fh/blob/mm/Maintainers[/URL]
-
-[B]FireHound Developer:[/B]
-[URL]https://github.com/PMS22[/URL]
+Sources:
+[URL='']Kernel[/URL]
+[URL='http://github.com/FireHound']ROM[/URL]
