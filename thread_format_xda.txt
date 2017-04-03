@@ -26,16 +26,27 @@ Status Bar Slide Brightness Control
 Quick Pulldown
 Show seconds
 [/HIDE]
-[B]Notifications[/B]
+[B]Quick Settings[/B]
 [HIDE]Heads UP Enable/Disable
 DND
 Quick WiFi Toggle
 Quick BT toggle
 Quick Battery toggle
+Quick Data toggle
+Location Easy toggle
+Haptic feedback on qs tiles
+QS Custom icons enable/disable
+Center time and date on QS
+Custom Header Image
 Disable FC Notifications
 Disable Immersive Messages
 Force Expanded Notifications
 Notification Access
+Custom Small QS tiles
+Custom rows,portrait,landscape tiles
+QS Tiles animations
+QS fancy animation toggle
+Disble QS on secure lockscreen
 Notifications Filter[/HIDE]
 [B]Buttons[/B]
 [HIDE]Navigation Bar Enable/Disable
@@ -50,6 +61,10 @@ Back Button Customizations
 Volume Button Customizations
 Keyboard Cursor Control
 Playback Control[/HIDE]
+[B]DUI[/B]
+[HIDE]Fling
+SmartBar
+Pulse[/HIDE]
 [B]Display[/B]
 [HIDE]Live Display
 Toast Icon Switch
@@ -58,6 +73,7 @@ Wake on Plug
 LCD Custom Density
 Daydream
 Font Size Control
+Blur UI
 Search Bar in Recents Menu[/HIDE]
 [B]Lights[/B]
 [HIDE]Battery Lights Customizations
@@ -69,6 +85,8 @@ Increasing Ring Volume
 Launch Music App on Headset connected
 Other Sounds Customizations
 Charging Sounds
+Enable/Disable screenshot sound
+Live Volume Steps
 Force Expanded Volume panel
 Camera Shutter Sound Enable/Disable[/HIDE]
 [B]Recents[/B]
@@ -77,6 +95,8 @@ Memory Bar
 Clear All Recents Button Enable/Disable
 Clear All tasks / Foreground Tasks
 Clear All Recents Location
+Slim Recents
+Immersive Recents
 Omni Switch[/HIDE]
 [B]Gestures[/B]
 [HIDE]
@@ -86,6 +106,10 @@ Three Finger Swipe Screenshot[/HIDE]
 Quick Unlock
 Double tap to sleep on lockscreen
 Smart Lock
+Show lockscreen date/clock toggle
+Signature spoofing
+Emergency Button Switch
+Battery Info on lockscreen
 Hide power menu on lockscreen
 Live Lock Screen
 Lock Screen Shortcuts
@@ -106,8 +130,8 @@ Skin Tone Enhancement
 HDR+
 Video Stabilization[/HIDE]
 [B]System App Remover[/B]
-
 [B]CM Privacy Guard[/B]
+[B]OMS (Substratum) support[/B]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
