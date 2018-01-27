@@ -7,13 +7,6 @@ FireHound is a Custom ROM developed focusing on Stability + Features. FireHound 
 
 [B]Status Bar[/B]
 [HIDE]Status Bar Icons
-SuperUser Indicator (Hide or Unhide Status Bar SU)
-Clock Style
-AM/PM Style
-Battery Style
-Enable/disable date
-Date format
-Date positions
 Battery Percentage
 Network Traffic Indicator
 Battery Bar
@@ -35,17 +28,11 @@ Quick Battery toggle
 Quick Data toggle
 Location Easy toggle
 Haptic feedback on qs tiles
-QS Custom icons enable/disable
-Center time and date on QS
-Custom Header Image
-Disable FC Notifications
 Disable Immersive Messages
 Force Expanded Notifications
 Notification Access
 Custom Small QS tiles
 Custom rows,portrait,landscape tiles
-QS Tiles animations
-QS fancy animation toggle
 Disble QS on secure lockscreen
 Notifications Filter[/HIDE]
 [B]Buttons[/B]
@@ -72,14 +59,12 @@ Double tap to wake/sleep
 Wake on Plug
 LCD Custom Density
 Daydream
-Font Size Control
-Blur UI
-Search Bar in Recents Menu[/HIDE]
+Font Size Control[/HIDE]
 [B]Lights[/B]
 [HIDE]Battery Lights Customizations
 Notification Lights Customizations[/HIDE]
 [B]Sounds[/B]
-[HIDE]Sim 1/2 Ringtones
+[HIDE]
 Notification Tones
 Increasing Ring Volume
 Launch Music App on Headset connected
@@ -95,9 +80,7 @@ Memory Bar
 Clear All Recents Button Enable/Disable
 Clear All tasks / Foreground Tasks
 Clear All Recents Location
-Slim Recents
-Immersive Recents
-Omni Switch[/HIDE]
+Immersive Recents[/HIDE]
 [B]Gestures[/B]
 [HIDE]
 Three Finger Swipe Screenshot[/HIDE]
@@ -146,7 +129,7 @@ Flash it!!! Reboot it!!!
 You know right? :D[/CENTER]
 
 [B]FireHound website:[/B]
-[COLOR=red][URL]https://firehound.github.io/[/URL][/COLOR]
+[COLOR=red][URL]https://firehound.me[/URL][/COLOR]
 
 [B]FireHound G+ Community:[/B]
 Join for latest updates, bug reporting, support and updates..
@@ -154,7 +137,7 @@ Join for latest updates, bug reporting, support and updates..
 
 [B]FireHound Donations:[/B]
 Donate us for keeping our build servers and Jenkins alive.
-[COLOR=red][URL=https://www.paypal.me/AdamLapinski]Donate FireHound[/URL][/COLOR]
+[COLOR=red][URL=https://www.paypal.me/pms22]Donate FireHound[/URL][/COLOR]
 
 [B]We also encourage users to report bugs and issues at our G+ Community.
 We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
