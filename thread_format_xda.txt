@@ -136,7 +136,7 @@ Video Stabilization[/HIDE]
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
 
-[[B]FireHound website:[/B]
+[[B]Essentials:[/B]
 [COLOR=red]Essentials is our new app written from scratch which served as FireHound core app
            which inlucded OTA service, Wallpaper service and other tasks.[/COLOR]
 
