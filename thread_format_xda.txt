@@ -1,9 +1,9 @@
 [IMG]https://raw.githubusercontent.com/FireHound/firehound_thread_format/master/fh_banner.png[/IMG]
 [CENTER][B][SIZE=3]FIRE BURNS AND PHOENIX HOUNDS
 [/SIZE][/B]
-FireHound is a Custom ROM developed focusing on Stability + Features. FireHound is made from cherry-picking commits from many great ROMs. Our main goal is to satisfy users as best as possible and to rise a community. So without being much senti, we will head towards main part now…[/CENTER]
+FireHound is a Custom ROM developed focusing on Stability carrying many features hand in hand. We strive a lot in the back end to provide our users with all the necessary components an OS should include.[/CENTER]
 
-[COLOR=red][B][SIZE=6]FireHound Ashes:[/SIZE][/B][/COLOR]
+[COLOR=red][B][SIZE=6]Ashes:[/SIZE][/B][/COLOR]
 
 [B]Status Bar[/B]
 [HIDE]Status Bar Icons
@@ -18,10 +18,15 @@ Battery Bar Thickness
 Status Bar Slide Brightness Control
 Quick Pulldown
 Show seconds
+Smart pulldown
+Show 4g for LTE
+Bluetooth battery status
+Ticker
 [/HIDE]
 [B]Quick Settings[/B]
 [HIDE]Heads UP Enable/Disable
 DND
+QS Tiles title
 Quick WiFi Toggle
 Quick BT toggle
 Quick Battery toggle
@@ -89,6 +94,8 @@ Three Finger Swipe Screenshot[/HIDE]
 Quick Unlock
 Double tap to sleep on lockscreen
 Smart Lock
+Lockscreen weather
+Fingerprint vibrations
 Show lockscreen date/clock toggle
 Signature spoofing
 Emergency Button Switch
@@ -101,6 +108,16 @@ Show Weather
 Custom Lockscreen Wallpaper[/HIDE]
 [B]Animations[/B]
 [HIDE]Toast animations style[/HIDE]
+[B]Miscellaneous[/B]
+[HIDE]App Ops
+Wakelock blocker
+Alarms Blocker
+Media scanner on boot[/HIDE]
+[B]Essentials[/B]
+OTA
+FireWalls
+Updates
+Blog posts[/HIDE]
 [B]Camera[/B]
 [HIDE]Denoise
 Saturation Adjustment
@@ -118,6 +135,10 @@ Video Stabilization[/HIDE]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
 [SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
+
+[[B]FireHound website:[/B]
+[COLOR=red]Essentials is our new app written from scratch which served as FireHound core app
+           which inlucded OTA service, Wallpaper service and other tasks.[/COLOR]
 
 [CENTER]
 [B][SIZE=3][COLOR=Red]How to flash:[/COLOR][/SIZE][/B]
