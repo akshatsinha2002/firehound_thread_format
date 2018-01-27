@@ -1,174 +1,182 @@
-[IMG]https://raw.githubusercontent.com/FireHound/firehound_thread_format/master/fh_banner.png[/IMG]
-[CENTER][B][SIZE=3]FIRE BURNS AND PHOENIX HOUNDS
-[/SIZE][/B]
-FireHound is a Custom ROM developed focusing on Stability carrying many features hand in hand. We strive a lot in the back end to provide our users with all the necessary components an OS should include.[/CENTER]
+[CENTER][img]https://i.imgur.com/NtqTao3.png[/img]
+FireHound is a Custom ROM developed focusing on Stability carrying many features hand in hand. We strive a lot in the back end to provide our users with all the necessary components a daily driver ROM should include.[/CENTER]
 
 [COLOR=red][B][SIZE=6]Ashes:[/SIZE][/B][/COLOR]
 
 [B]Status Bar[/B]
-[HIDE]Status Bar Icons
-Battery Percentage
-Network Traffic Indicator
-Battery Bar
-Battery Bar Location
-Battery Bar Style
-Charging Animation
-Battery Bar Color
-Battery Bar Thickness
-Status Bar Slide Brightness Control
-Quick Pulldown
-Show seconds
-Smart pulldown
-Show 4g for LTE
-Bluetooth battery status
-Ticker
+[HIDE][LIST]
+[*]Status Bar Icons
+[*]Battery Percentage
+[*]Network Traffic Indicator
+[*]Battery Bar
+[*]Battery Bar Location
+[*]Battery Bar Style
+[*]Charging Animation
+[*]Battery Bar Color
+[*]Battery Bar Thickness
+[*]Slide for Brightness Control
+[*]Quick Pulldown
+[*]Smart Pulldown
+[*]Show seconds
+[*]Bluetooth battery status
+[*]Notification Ticker
+[/LIST]
 [/HIDE]
 [B]Quick Settings[/B]
-[HIDE]Heads UP Enable/Disable
-DND
-QS Tiles title
-Quick WiFi Toggle
-Quick BT toggle
-Quick Battery toggle
-Quick Data toggle
-Location Easy toggle
-Haptic feedback on qs tiles
-Disable Immersive Messages
-Force Expanded Notifications
-Notification Access
-Custom Small QS tiles
-Custom rows,portrait,landscape tiles
-Disble QS on secure lockscreen
-Notifications Filter[/HIDE]
+[HIDE][LIST]
+[*]Heads Up Enable/Disable
+[*]DND
+[*]QS Tiles title
+[*]Quick WiFi Toggle
+[*]Quick BT toggle
+[*]Quick Battery toggle
+[*]Quick Data toggle
+[*]Location Easy toggle
+[*]Haptic feedback on qs tiles
+[*]Disable Immersive Messages
+[*]Force Expanded Notifications
+[*]Notification Access
+[*]Custom Small QS tiles
+[*]Custom rows,portrait,landscape tiles
+[*]Disble QS on secure lockscreen
+[*]Notifications Filter
+[/LIST][/HIDE]
 [B]Buttons[/B]
-[HIDE]Navigation Bar Enable/Disable
-Backlight Control
-Navigation Bar Layout Control
-Left Handed Mode
-Power button press twice for Camera
-Power Button End Call
-Home Button Customizations
-Menu Button Customizations
-Back Button Customizations
-Volume Button Customizations
-Keyboard Cursor Control
-Playback Control[/HIDE]
-[B]DUI[/B]
-[HIDE]Fling
-SmartBar
-Pulse[/HIDE]
+[HIDE][LIST]
+[*]Navigation Bar Enable/Disable
+[*]Backlight Control
+[*]Navigation Bar Layout Control
+[*]Left Handed Mode
+[*]Power button press twice for Camera
+[*]Power Button End Call
+[*]Home Button Customizations
+[*]Menu Button Customizations
+[*]Back Button Customizations
+[*]Volume Button Customizations
+[*]Keyboard Cursor Control
+[*]Playback Control
+[/LIST][/HIDE]
+[B]Navigation Bar[/B]
+[HIDE][LIST]
+[*]Fling
+[*]SmartBar
+[*]Pulse
+[/LIST][/HIDE]
 [B]Display[/B]
-[HIDE]Live Display
-Toast Icon Switch
-Double tap to wake/sleep
-Wake on Plug
-LCD Custom Density
-Daydream
-Font Size Control[/HIDE]
+[HIDE][LIST]
+[*]Toast Icon Switch
+[*]Double tap to wake/sleep
+[*]Wake on Plug
+[*]LCD Custom Density
+[*]Daydream
+[*]Font Size Control
+[/LIST][/HIDE]
 [B]Lights[/B]
-[HIDE]Battery Lights Customizations
-Notification Lights Customizations[/HIDE]
+[HIDE][LIST]
+[*]Battery Lights Customizations
+[*]Notification Lights Customizations
+[/LIST][/HIDE]
 [B]Sounds[/B]
 [HIDE]
-Notification Tones
-Increasing Ring Volume
-Launch Music App on Headset connected
-Other Sounds Customizations
-Charging Sounds
-Enable/Disable screenshot sound
-Live Volume Steps
-Force Expanded Volume panel
-Camera Shutter Sound Enable/Disable[/HIDE]
+[LIST]
+[*]Notification Tones
+[*]Increasing Ring Volume
+[*]Launch Music App on Headset connected
+[*]Other Sounds Customizations
+[*]Charging Sounds
+[*]Enable/Disable screenshot sound
+[*]Live Volume Steps
+[*]Force Expanded Volume panel
+[*]Camera Shutter Sound Enable/Disable
+[/LIST][/HIDE]
 [B]Recents[/B]
-[HIDE]Show search bar in Recents
-Memory Bar
-Clear All Recents Button Enable/Disable
-Clear All tasks / Foreground Tasks
-Clear All Recents Location
-Immersive Recents[/HIDE]
+[HIDE][LIST]
+[*]Show search bar in Recents
+[*]Memory Bar
+[*]Clear All Recents Button Enable/Disable
+[*]Clear All tasks / Foreground Tasks
+[*]Clear All Recents Location
+[*]Immersive Recents
+[/LIST][/HIDE]
 [B]Gestures[/B]
 [HIDE]
-Three Finger Swipe Screenshot[/HIDE]
+[LIST]
+[*]Three Finger Swipe Screenshot
+[/LIST][/HIDE]
 [B]Lock Screen[/B]
-[HIDE]Keyguard and all types of Keyguards
-Quick Unlock
-Double tap to sleep on lockscreen
-Smart Lock
-Lockscreen weather
-Fingerprint vibrations
-Show lockscreen date/clock toggle
-Signature spoofing
-Emergency Button Switch
-Battery Info on lockscreen
-Hide power menu on lockscreen
-Live Lock Screen
-Lock Screen Shortcuts
-Music Visualizer
-Show Weather
-Custom Lockscreen Wallpaper[/HIDE]
+[HIDE][LIST]
+[*]Quick Unlock
+[*]Double tap to sleep on lockscreen
+[*]Smart Lock
+[*]Lockscreen weather
+[*]Fingerprint vibrations
+[*]Show lockscreen date/clock toggle
+[*]Signature spoofing
+[*]Emergency Button Switch
+[*]Battery Info on lockscreen
+[*]Hide power menu on lockscreen
+[*]Live Lock Screen
+[*]Lock Screen Shortcuts
+[*]Music Visualizer
+[*]Show Weather
+[/LIST][/HIDE]
 [B]Animations[/B]
-[HIDE]Toast animations style[/HIDE]
+[HIDE][LIST]
+[*]Toast animations style
+[/LIST][/HIDE]
 [B]Miscellaneous[/B]
-[HIDE]App Ops
-Wakelock blocker
-Alarms Blocker
-Media scanner on boot[/HIDE]
-[B]Essentials[/B]
-OTA
-FireWalls
-Updates
-Blog posts[/HIDE]
-[B]Camera[/B]
-[HIDE]Denoise
-Saturation Adjustment
-Contrast Adjustment
-Sharpness Adjustments
-Beautify
-ISO
-ZSL
-Skin Tone Enhancement
-HDR+
-Video Stabilization[/HIDE]
-[B]System App Remover[/B]
-[B]CM Privacy Guard[/B]
-[B]OMS (Substratum) support[/B]
+[HIDE][LIST]
+[*]App Ops
+[*]Wakelock blocker
+[*]Alarms Blocker
+[*]Media scanner on boot
+[/LIST][/HIDE]
+
+[SIZE="6"][COLOR="Red"][B]Camera:[/B][/COLOR][/SIZE]
+Custom Camera MOD designed for better performance
+[HIDE][LIST]
+[*]Denoise
+[*]Saturation Adjustment
+[*]Contrast Adjustment
+[*]Sharpness Adjustments
+[*]Beautify
+[*]ISO
+[*]ZSL
+[*]Skin Tone Enhancement
+[*]HDR+
+[*]Video Stabilization
+[/LIST][/HIDE]
+
+[B][COLOR="red"][SIZE="6"]Essentials:[/SIZE][/COLOR][/B]
+Essentials is our app written from scratch which serves as a core service
+[HIDE][LIST]
+[*]FireWalls
+[*]Updates
+[*]Blog posts
+[/LIST][/HIDE]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
-[SIZE=4][B][URL='']Firehound[/URL][/B][/SIZE][/CENTER]
+[SIZE=4][B][URL='']FireHound[/URL][/B][/SIZE]
 
-[[B]Essentials:[/B]
-[COLOR=red]Essentials is our new app written from scratch which served as FireHound core app
-           which inlucded OTA service, Wallpaper service and other tasks.[/COLOR]
-
-[CENTER]
 [B][SIZE=3][COLOR=Red]How to flash:[/COLOR][/SIZE][/B]
 Download the ROM and [URL='http://opengapps.org/'][B]Gapps[/B][/URL]
 Boot into recovery mode [TWRP]
 Wipe System/Data/Dalvik Cache/Cache
-Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
-Flash it!!! Reboot it!!!
-You know right? :D[/CENTER]
+Select both the [B]ROM[/B] and [B]Gapps[/B] zip files
+Flash
+Reboot!
+[/CENTER]
 
-[B]FireHound website:[/B]
-[COLOR=red][URL]https://firehound.me[/URL][/COLOR]
+[B][COLOR="red"][SIZE="6"]Links:[/SIZE][/COLOR][/B]
+[URL="http://firehound.me"]Website[/URL]
+[URL="https://plus.google.com/communities/114615598909452601377"]Google+ Community[/URL]
+[URL="http://review.firehound.me"]Gerrit Code-Review[/URL]
+[URL="https://crowdin.com/project/firehound"]Crowdin[/URL]
+[URL="https://t.me/FireHound"]Telegram Channel[/URL]
 
-[B]FireHound G+ Community:[/B]
-Join for latest updates, bug reporting, support and updates..
-[COLOR=red][URL]https://plus.google.com/communities/114615598909452601377[/URL][/COLOR]
+[B]We also encourage users to report bugs and issues at our G+ Community with proper logs.
+We also welcome a “x” feature request from users and if we really feel it to be useful, we will push it in.[/B]
 
-[B]FireHound Donations:[/B]
-Donate us for keeping our build servers and Jenkins alive.
-[COLOR=red][URL=https://www.paypal.me/pms22]Donate FireHound[/URL][/COLOR]
-
-[B]We also encourage users to report bugs and issues at our G+ Community.
-We also welcome a “x” feature request from users and if we really feel it to be useful, we will integrate it in our ROM.
-Tell us whatever, whichever feature you want and we will try our best to integrate it.[/B]
-
-[B]We Thank:[/B]
-[SIZE=2]LineageOS
-Our designer team
-And all who have contributed to this ROM.[/SIZE]
-
-Sources:
+[COLOR="Red"][SIZE="6"][B]Sources:[/B][/SIZE][/COLOR]
 [URL='']Kernel[/URL]
 [URL='http://github.com/FireHound']ROM[/URL]
