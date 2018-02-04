@@ -20,6 +20,7 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [*]Show seconds
 [*]Bluetooth battery status
 [*]Notification Ticker
+[*]Custom Carrier label
 [/LIST]
 [/HIDE]
 [B]Quick Settings[/B]
@@ -40,6 +41,8 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [*]Custom rows,portrait,landscape tiles
 [*]Disble QS on secure lockscreen
 [*]Notifications Filter
+[*]Quick Settings Headers
+[*]QS Scroller
 [/LIST][/HIDE]
 [B]Buttons[/B]
 [HIDE][LIST]
@@ -119,10 +122,13 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [*]Lock Screen Shortcuts
 [*]Music Visualizer
 [*]Show Weather
+[*]Ambient Music Ticker
+[*]Toggle for quick face unlock
 [/LIST][/HIDE]
 [B]Animations[/B]
 [HIDE][LIST]
 [*]Toast animations style
+[*]Screen Off animations
 [/LIST][/HIDE]
 [B]Miscellaneous[/B]
 [HIDE][LIST]
