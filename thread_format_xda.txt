@@ -6,7 +6,8 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [B]Status Bar[/B]
 [HIDE][LIST]
 [*]Status Bar Icons
-[*]Battery Percentage
+[*]Battery Icon Styles
+[*]Clock and Date Customizations
 [*]Network Traffic Indicator
 [*]Battery Bar
 [*]Battery Bar Location
@@ -49,9 +50,12 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [*]Navigation Bar Enable/Disable
 [*]Backlight Control
 [*]Navigation Bar Layout Control
+[*]Dynamic Navigation Bar
 [*]Left Handed Mode
 [*]Power button press twice for Camera
 [*]Power Button End Call
+[*]Power button long press for torch on lockscreen
+[*]Power Menu Customization
 [*]Home Button Customizations
 [*]Menu Button Customizations
 [*]Back Button Customizations
@@ -136,6 +140,10 @@ FireHound is a Custom ROM developed focusing on Stability carrying many features
 [*]Wakelock blocker
 [*]Alarms Blocker
 [*]Media scanner on boot
+[*]Pocket Detection
+[*]Signature Spoofing
+[*]Face Auto Unlock 
+[*]MTP instead of charging
 [/LIST][/HIDE]
 
 [SIZE="6"][COLOR="Red"][B]Camera:[/B][/COLOR][/SIZE]
